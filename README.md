@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width=900 src="https://camo.githubusercontent.com/3492228fd9a698d24cbe02d7e013abc0fe70eebeda013e47dab443f61efe5013/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 
 <h1 align="center">Hi 👋, I'm Dato Diasamidze</h1>
-<h3 align="center">Full-Stack Developer at Identomat | Mentor at Re;Educate | Mentor at Re;School</h3>
+<h2 align="center">Full-Stack Developer at Identomat | Mentor at Re;Educate | Mentor at Re;School</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datodia&label=Profile%20views&color=0e75b6&style=flat" alt="datodia" /> </p>
