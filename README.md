@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datodia&label=Profile%20views&color=0e75b6&style=flat" alt="datodia" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://datodia.github.io/Portfolio/](https://datodia.github.io/Portfolio/)
-
 - 💬 Ask me about **React, Node, NextJS, Express, NestJS, Docker, AWS, SQL, MONGODB, API Architecture, System Design**
 
 - 📫 How to reach me **Dato.diasamidze.02@gmail.com**
