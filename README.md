@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://datodia.github.io/Portfolio/](https://datodia.github.io/Portfolio/)
 
-- 💬 Ask me about **React, Node, NextJS, Express, NestJS, Docker, AWS, SWAGGER, MONGODB, GraphQL**
+- 💬 Ask me about **React, Node, NextJS, Express, NestJS, Docker, AWS, SQL, MONGODB, API Architecture, System Design**
 
 - 📫 How to reach me **Dato.diasamidze.02@gmail.com**
 
